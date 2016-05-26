@@ -1,0 +1,6 @@
+applications:
+- name: sfxuk
+  framework:
+    type: php
+  instances: 1
+  memory: 16
