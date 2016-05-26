@@ -20,225 +20,225 @@
 	}
 
 
-	
+
 /*sml-only*/
-@media only screen and (max-width: 40em) {	
+@media only screen and (max-width: 40em) {
 
 .home-page .hero-electricalore .banner__wrapper .banner__img-align {
 	left: 33%;
 	}
-	
+
 .hero-electricalore .banner__wrapper .banner__content-wrapper .banner__content .banner__deal .banner__text--medium {
     font-size: 32px;
     color: #0053a0;
 	}
-	
+
 .hero-electricalore .banner__wrapper .banner__content-wrapper .banner__content .banner__deal .banner__text--large {
     font-size: 62px;
 	}
-	
+
 .hero-electricalore .banner__wrapper .banner__content-wrapper .banner__content .banner__deal {
     margin-bottom: 5px;
-	}	
-	
+	}
+
 .hero-electricalore .banner__wrapper .banner__content-wrapper .banner__content .banner__text {
     font-size: 19px;
     color: #0053a0;
 	}
-	
+
 .home-page .hero-socketsusb .banner__wrapper .banner__img-align {
 	left: 30%;
-	}	
-	
+	}
+
 .home-page .hero-sandtex .banner__wrapper .banner__img-align {
 	left: 30%;
 	}
-	
+
 .home-page .hero-csu .banner__wrapper .banner__img-align {
 	left: 30%;
-	}	
-	
+	}
+
 .home-page .hero-lawnmowers .banner__wrapper .banner__img-align {
 	left: 30%;
-	}		
-	
+	}
+
 .home-page .hero-makitadrill .banner__wrapper .banner__img-align {
 	left: 30%;
-	}		
-	
+	}
+
 .home-page .hero-radiatortrv .banner__wrapper .banner__img-align {
 	left: 30%;
-	}	
-	
+	}
+
 .home-page .hero-siteboots .banner__wrapper .banner__img-align {
 	left: 30%;
 	}
 
 .home-page .hero-towelrad .banner__wrapper .banner__img-align {
 	left: 30%;
-	}	
-	
+	}
+
 .home-page .hero-cctv .banner__wrapper .banner__img-align {
 	left: 30%;
-	}	
-		
+	}
+
 /*start DOTD
 .home-page .banner--var6 .banner__img-align{
 	left: 30%;
 	bottom: 0px;
 	}
-end DOTD*/	
-	
+end DOTD*/
+
 }
 
 
 /*med-only*/
 @media only screen and (max-width: 64em) and (min-width: 40.063em) {
-	
+
 .home-page .hero-electricalore .banner__wrapper .banner__img-align {
 	left: 25%;
 	}
-	
+
 .hero-electricalore .banner__wrapper .banner__content-wrapper .banner__content .banner__deal .banner__text--medium {
     font-size: 63px;
     color: #0053a0;
 	}
-	
+
 .hero-electricalore .banner__wrapper .banner__content-wrapper .banner__content .banner__deal {
     margin-bottom: 5px;
-	}	
-	
+	}
+
 .hero-electricalore .banner__wrapper .banner__content-wrapper .banner__content .banner__deal .banner__text--large {
     font-size: 124px;
 	}
-	
+
 .hero-electricalore .banner__wrapper .banner__content-wrapper .banner__content .banner__text {
     font-size: 34px;
     color: #0053a0;
 	}
-	
+
 .home-page .hero-socketsusb .banner__wrapper .banner__img-align {
 	left: 30%;
-	}	
-	
+	}
+
 .home-page .hero-sandtex .banner__wrapper .banner__img-align {
 	left: 30%;
 	}
-	
+
 .home-page .hero-csu .banner__wrapper .banner__img-align {
 	left: 30%;
-	}	
-	
+	}
+
 .home-page .hero-lawnmowers .banner__wrapper .banner__img-align {
 	left: 30%;
-	}		
-	
+	}
+
 .home-page .hero-makitadrill .banner__wrapper .banner__img-align {
 	left: 30%;
-	}		
-	
+	}
+
 .home-page .hero-radiatortrv .banner__wrapper .banner__img-align {
 	left: 30%;
-	}	
-	
+	}
+
 .home-page .hero-siteboots .banner__wrapper .banner__img-align {
 	left: 30%;
 	}
 
 .home-page .hero-towelrad .banner__wrapper .banner__img-align {
 	left: 30%;
-	}	
-	
+	}
+
 .home-page .hero-cctv .banner__wrapper .banner__img-align {
 	left: 30%;
-	}		
+	}
 
 /*start DOTD
 .home-page .banner--var6 .banner__img-align{
 	left: 30%;
 	bottom: 0px;
 	}
-end DOTD*/	
-		
+end DOTD*/
+
 }
 
 
 /*lrg-only*/
-@media screen and (min-width: 64.063em) {	
+@media screen and (min-width: 64.063em) {
 
 .home-page .hero-electricalore .banner__wrapper .banner__img-align {
 	left: 30%;
 	}
-	
+
 .hero-electricalore .banner__wrapper .banner__content-wrapper .banner__content .banner__deal .banner__text--medium {
     font-size: 74px;
     color: #0053a0;
 	}
-	
+
 .hero-electricalore .banner__wrapper .banner__content-wrapper .banner__content .banner__deal .banner__text--large {
     font-size: 142px;
 	}
-	
+
 .hero-electricalore .banner__wrapper .banner__content-wrapper .banner__content .banner__deal {
     margin-bottom: 5px;
-	}	
-	
+	}
+
 .hero-electricalore .banner__wrapper .banner__content-wrapper .banner__content .banner__text {
     font-size: 44px;
     color: #0053a0;
-	}	
-	
+	}
+
 .home-page .hero-socketsusb .banner__wrapper .banner__img-align {
 	left: 40%;
-	}	
-	
+	}
+
 .home-page .hero-sandtex .banner__wrapper .banner__img-align {
 	left: 30%;
 	}
-	
+
 .home-page .hero-csu .banner__wrapper .banner__img-align {
 	left: 30%;
-	}	
-	
+	}
+
 .home-page .hero-lawnmowers .banner__wrapper .banner__img-align {
 	left: 30%;
-	}		
-	
+	}
+
 .home-page .hero-makitadrill .banner__wrapper .banner__img-align {
 	left: 30%;
-	}		
-	
+	}
+
 .home-page .hero-radiatortrv .banner__wrapper .banner__img-align {
 	left: 50%;
-	}	
-	
+	}
+
 .home-page .hero-siteboots .banner__wrapper .banner__img-align {
 	left: 45%;
 	}
 
 .home-page .hero-towelrad .banner__wrapper .banner__img-align {
 	left: 30%;
-	}	
-	
+	}
+
 .home-page .hero-cctv .banner__wrapper .banner__img-align {
 	left: 42%;
-	}		
+	}
 
 .home-page .full_width_banner .full_width_wrp{
 	position: relative;
 	width: 99.55vw;
 	left: calc(-50vw + 50%);
 	text-align:center;
-	background:#fff200;	
-	margin-bottom: 30px;		
+	background:#fff200;
+	margin-bottom: 30px;
 	}
-	
+
 /*start DOTD
 .home-page .banner--var6 .banner__img-align{
 	bottom: 0px;
 	}
-end DOTD*/	
-					
+end DOTD*/
+
 }
 
 </style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -317,11 +317,11 @@ end DOTD*/
 <![endif]--></div>
 <div class="SiteAboveHeaderMerch2"><div></div></div>
 
-	
-	<div class="sh-wrapper js--site-header">	
-		
+
+	<div class="sh-wrapper js--site-header">
+
 		<input id="international-popup" type="hidden" data-show-popup="false" data-block-url="/jsp/block/lookupSitebuilderBrandedBlockByName.jsp?blockName=EU%20Popup%20Modal">
-		
+
 		<div class="sh-0" style="display: none;">
 			<div class="sh-resize">
 				<h2>Welcome please select your location <a href="index.html#" class="btn-close-location">close X</a></h2>
@@ -337,20 +337,20 @@ end DOTD*/
 
 		<div class="sh-top">
 			<div class="sh-resize">
-				
+
 					<a href="tel:03330112112" class="sh-top--callus">Call 24/7 on: 03330 112 112</a>
 					<a href="tel:03330112112" class="sh-top--callus-mob">Call 24/7 on: 03330 112 112</a>
-				
+
 
 				<a id="quickshop_page_link" href="http://www.screwfix.com/jsp/quickshop/quickShopPage.jsp" class="sh-top--shop icon-catalogue">Shop by <span class="md-hide">Product </span>Code</a>
 				<a href="http://www.screwfix.com/help/helphome" class="sh-top--help">Need Help<span class="icon-help-circled"></span></a>
-				
+
 
 				<div class="sh-top--vat">
 					<a id="Inc_VAT_toggle" href="index.html" class="inc">INC VAT</a>
-					
+
 		                	<a href="index.html" class="toggle"></a>
-		               	
+
 	                <a id="Ex_VAT_toggle" href="index.html" class="ex">EX VAT</a>
 				</div>
 			</div>
@@ -376,7 +376,7 @@ end DOTD*/
 
 				<div class="sh-right">
 					<div class="sh-user">
-						
+
 						<ul class="sh-user__ul">
 							<li class="search">
 								<a href="index.html#">
@@ -384,28 +384,28 @@ end DOTD*/
 									<span>Search</span>
 								</a>
 							</li>
-							
+
 							<li class="acc">
-								
+
 											<a id="header_link_sign_in" href="https://www.screwfix.com/loginpage">
 												<i class="icon icon-user"></i>
-												<span>Your Account</span>                                
+												<span>Your Account</span>
 												<span class="user-name">Sign in / Register</span>
 											</a>
 											<script>var userSignin = false;</script>
-										
-								 
+
+
 								<div class="sh-acc__bg"></div>
 								<div class="sh-acc__options">
 								    <ul class="sh-acc__opt">
 								        <li><a class="sh-acc__link" href="https://www.screwfix.com/jsp/account/orderHistoryPage.jsp">Order History</a></li>
 								        <li><a class="sh-acc__link" href="https://www.screwfix.com/jsp/account/allPurchasesPage.jsp">Previous Purchases</a></li>
 								        <li><a class="sh-acc__link" href="https://www.screwfix.com/jsp/account/savedListPage.jsp" id="header_saved_list_page_link">Saved List</a></li>
-										
-										
+
+
 												<li><a class="sh-acc__link" href="https://www.screwfix.com/jsp/account/amendPersonalDetailsPage.jsp">Personal Details</a></li>
-											
-								      
+
+
 								        <li><a class="sh-acc__link" href="https://www.screwfix.com/jsp/account/changePasswordPage.jsp">Change Password</a></li>
 								        <li><a class="sh-acc__link" href="https://www.screwfix.com/jsp/account/manageAddressBookPage.jsp">Address Book</a></li>
 								        <li><a class="sh-acc__link" href="https://www.screwfix.com/jsp/account/managePaymentDetailsPage.jsp">Payment Cards</a></li>
@@ -413,49 +413,49 @@ end DOTD*/
 								    </ul>
 								</div>
 							</li>
-							
-							
+
+
 							<li class="store">
 								<a id="header_branch_locator_link" href="http://www.screwfix.com/jsp/tradeCounter/tradeCounterPage.jsp">
 									<i class="icon icon-location">
 										<i class="dot"></i>
 									</i>
-									
+
 										  <span class="store-text replaced">Store locator</span>
 										  <span class="store-location">Select a store</span>
-										
+
 								</a>
 							</li>
-							
-							
-							
+
+
+
 							<li class="checkout">
-								 
+
 										<a href="http://www.screwfix.com/jsp/trolley/trolleyPage.jsp">
 											<i class="icon icon-basket"></i>
 											<span>Checkout</span>
 										</a>
-										
+
 							</li>
 						</ul>
 					</div>
 
-					
-	
+
+
 	<div class="mainSearch__container">
-		
-		
+
+
 		<div class="sh-search">
 			<input id="mainSearch-input" class="search-input" name="search" type="text" placeholder="What are you looking for?" autocomplete="off" value="" tabindex="1" />
-			<i class="icon icon-search"></i>			
+			<i class="icon icon-search"></i>
 			<input title="Search" class="search-btn  icon icon-search" type="submit" id="search_submit_button" value="" />
-			
+
 			<div id="mainSearch-suggestions" class="sh-search__sugg" style="display:none;" >
 				<ul class="sh-search__sl"></ul>
 			</div>
 		</div>
-			
-		
+
+
 		<script type="text/javascript" language="javascript">
 			var searchConfig = {
 				predictiveContainerId: 'mainSearch-suggestions',
@@ -463,7 +463,7 @@ end DOTD*/
 				searchMainContainer:'mainSearch__container',
 				suggestUrl: 'http://query.published.live1.suggest.eu1.fredhopperservices.com/sfx/json',
 				enabled: true,
-				showSuggestedProducts: true, 
+				showSuggestedProducts: true,
             	minChars: 1,     // Number of characters to be typed before starting server search requests
             	frequency: 0.5,  // Seconds between last character typed and initiation of server search request
             	scope: 'scope=//screwfix/en_GB/availability>{screwfix}',
@@ -475,181 +475,181 @@ end DOTD*/
             	smallScreenSelector: 'li.search:visible'
 			};
 		</script>
-	 </div>	
-	 
+	 </div>
+
 
 				</div>
 			</div>
 		</div>
 	</div>
 
-	
+
 </div>
 
-	
+
 	<div class="header-pad"></div>
 	<div class="main-nav">
-	
-	
+
+
 					<div class="sh-resize">
 						<div class="menu-tier-1" style="z-index: 9;">
 							<ul class="mn">
 								<li class="first">DEPARTMENTS</li>
-			
-								<li class="" id="firstLevelCat_0"> 						
-									
+
+								<li class="" id="firstLevelCat_0">
+
 			<a href="http://www.screwfix.com/c/tools/cat830034">
-				Tools	
+				Tools
 			</a>
-		
-									<div class="menu-tier-2">					
-														
+
+									<div class="menu-tier-2">
+
 									</div>
 								</li>
-			
-								<li class="" id="firstLevelCat_1"> 						
-									
+
+								<li class="" id="firstLevelCat_1">
+
 			<a href="http://www.screwfix.com/c/heating-plumbing/cat830950">
-				Heating &amp; Plumbing	
+				Heating &amp; Plumbing
 			</a>
-		
-									<div class="menu-tier-2">					
-														
+
+									<div class="menu-tier-2">
+
 									</div>
 								</li>
-			
-								<li class="" id="firstLevelCat_2"> 						
-									
+
+								<li class="" id="firstLevelCat_2">
+
 			<a href="http://www.screwfix.com/c/electrical-lighting/cat840780">
-				Electrical &amp; Lighting	
+				Electrical &amp; Lighting
 			</a>
-		
-									<div class="menu-tier-2">					
-														
+
+									<div class="menu-tier-2">
+
 									</div>
 								</li>
-			
-								<li class="" id="firstLevelCat_3"> 						
-									
+
+								<li class="" id="firstLevelCat_3">
+
 			<a href="http://www.screwfix.com/c/bathrooms-kitchens/cat810412">
-				Bathrooms &amp; Kitchens	
+				Bathrooms &amp; Kitchens
 			</a>
-		
-									<div class="menu-tier-2">					
-														
+
+									<div class="menu-tier-2">
+
 									</div>
 								</li>
-			
-								<li class="" id="firstLevelCat_4"> 						
-									
+
+								<li class="" id="firstLevelCat_4">
+
 			<a href="http://www.screwfix.com/c/outdoor-gardening/cat840458">
-				Outdoor &amp; Gardening	
+				Outdoor &amp; Gardening
 			</a>
-		
-									<div class="menu-tier-2">					
-														
+
+									<div class="menu-tier-2">
+
 									</div>
 								</li>
-			
-								<li class="" id="firstLevelCat_5"> 						
-									
+
+								<li class="" id="firstLevelCat_5">
+
 			<a href="http://www.screwfix.com/c/screws-nails-fixings/cat840002">
-				Screws, Nails &amp; Fixings	
+				Screws, Nails &amp; Fixings
 			</a>
-		
-									<div class="menu-tier-2">					
-														
+
+									<div class="menu-tier-2">
+
 									</div>
 								</li>
-			
-								<li class="" id="firstLevelCat_6"> 						
-									
+
+								<li class="" id="firstLevelCat_6">
+
 			<a href="http://www.screwfix.com/c/security-ironmongery/cat4190012">
-				Security &amp; Ironmongery	
+				Security &amp; Ironmongery
 			</a>
-		
-									<div class="menu-tier-2">					
-														
+
+									<div class="menu-tier-2">
+
 									</div>
 								</li>
-			
-								<li class="" id="firstLevelCat_7"> 						
-									
+
+								<li class="" id="firstLevelCat_7">
+
 			<a href="http://www.screwfix.com/c/building-joinery/cat850188">
-				Building &amp; Joinery	
+				Building &amp; Joinery
 			</a>
-		
-									<div class="menu-tier-2">					
-														
+
+									<div class="menu-tier-2">
+
 									</div>
 								</li>
-			
-								<li class="" id="firstLevelCat_8"> 						
-									
+
+								<li class="" id="firstLevelCat_8">
+
 			<a href="http://www.screwfix.com/c/safety-workwear/cat850322">
-				Safety &amp; Workwear	
+				Safety &amp; Workwear
 			</a>
-		
-									<div class="menu-tier-2">					
-														
+
+									<div class="menu-tier-2">
+
 									</div>
 								</li>
-			
-								<li class="" id="firstLevelCat_9"> 						
-									
+
+								<li class="" id="firstLevelCat_9">
+
 			<a href="http://www.screwfix.com/c/sealants-adhesives/cat850030">
-				Sealants &amp; Adhesives	
+				Sealants &amp; Adhesives
 			</a>
-		
-									<div class="menu-tier-2">					
-														
+
+									<div class="menu-tier-2">
+
 									</div>
 								</li>
-			
-								<li class="" id="firstLevelCat_10"> 						
-									
+
+								<li class="" id="firstLevelCat_10">
+
 			<a href="http://www.screwfix.com/c/storage-ladders/cat831422">
-				Storage &amp; Ladders	
+				Storage &amp; Ladders
 			</a>
-		
-									<div class="menu-tier-2">					
-														
+
+									<div class="menu-tier-2">
+
 									</div>
 								</li>
-			
-								<li class="" id="firstLevelCat_11"> 						
-									
+
+								<li class="" id="firstLevelCat_11">
+
 			<a href="http://www.screwfix.com/c/auto-cleaning/cat7360001">
-				Auto &amp; Cleaning	
+				Auto &amp; Cleaning
 			</a>
-		
-									<div class="menu-tier-2">					
-														
+
+									<div class="menu-tier-2">
+
 									</div>
 								</li>
-			
-								<li class="" id="firstLevelCat_12"> 						
-									
+
+								<li class="" id="firstLevelCat_12">
+
 			<a href="http://www.screwfix.com/c/decorating/cat850130">
-				Decorating	
+				Decorating
 			</a>
-		
-									<div class="menu-tier-2">					
-														
+
+									<div class="menu-tier-2">
+
 									</div>
 								</li>
-			
+
 							</ul>
 						</div>
 					</div>
-			
-	
+
+
 	</div>
 <div></div>
 <div class="wrp">
 <div class="inner">
-<div class="row-top--pdg">	<div class="slider slider-banners" data-auto-start="true"		data-slide-speed="5000">						<div>					<div class="hero-radiatortrv">
-			
+<div class="row-top--pdg">	<div class="slider slider-banners" data-auto-start="true"		data-slide-speed="5000">				<div>					<div class="hero-radiatortrv">
+
 				<a href="http://www.screwfix.com/c/heating-plumbing/central-heating-radiators/cat830988?cm_sp=homepage-_-promo-_-freetrv" class="banner banner--freetype banner--var1 banner--border" title="Free Drayton TRV with Kudox & Barlo Convector Radiators">
 					<div class="banner__wrapper" style="background: url(images/CAT125/assets/gfx/BGhp-main-hero-two.png) no-repeat">
 						<div class="banner__content-wrapper">
@@ -658,7 +658,7 @@ end DOTD*/
 									<span class="banner__text--medium">Free TRV</span>
 									<span class="banner__text--small"></span>
 									<span class="banner__text--small"></span>
-								</p>	
+								</p>
 								<p class="banner__text">
 									<span>with Kudox or Barlo</span>
 									<span>Central Heating Radiators</span>
@@ -669,47 +669,47 @@ end DOTD*/
 						<div class="banner__img-align">
 							<img src="index.html" alt="" class="banner__img swap" data-src-small="http://www.screwfix.com/images/CAT125/assets/gfx/hp-main-hero-radtrv_sm.png" data-src-medium="http://www.screwfix.com/images/CAT125/assets/gfx/hp-main-hero-radtrv_md.png" data-src-large="http://www.screwfix.com/images/CAT125/assets/gfx/hp-main-hero-radtrv_lg.png" data-alt=""/>
 						</div>
-				
-						
+
+
 					</div>
 				</a>
-			
-</div>				</div>							<div>					<div class="hero-cctv">
-			
+
+</div>				</div>				<div>					<div class="hero-cctv">
+
 			    <a href="http://www.screwfix.com/search?search=50offsecurity125&cm_sp=homepage-_-promo-_-cctv" class="banner banner--var1 banner--border" title="Save up to 50% on selected CCTV & Alarm Kits">
 				    <div class="banner__wrapper" style="background: url(images/CAT125/assets/gfx/BGhp-main-hero-two.png) no-repeat">
 				        <div class="banner__content-wrapper">
 				            <div class="banner__content">
 				            	<p class="banner__deal">
-					                
+
 						            		<span class="banner__deal-text">Save<span class="banner__deal-up-to">up to</span></span>
-						                 
-								
+
+
 					               	<span class="banner__deal-value">
 					                	50<sup>%</sup>
-					                 		
+
 					                </span>
-								</p>	
+								</p>
 				            	<p class="banner__text">
 				                    <span>On Selected CCTV and Alarm Kits</span>
 				                    <span></span>
 				                    <span></span>
 				                </p>
-				
+
 				            </div>
-					
+
 				        </div>
 						<div class="banner__img-align">
 				        	<img src="index.html" alt="" class="banner__img swap" data-src-small="http://www.screwfix.com/images/CAT125/assets/gfx/hp-main-hero-two_sm.png" data-src-medium="http://www.screwfix.com/images/CAT125/assets/gfx/hp-main-hero-two_md.png" data-src-large="http://www.screwfix.com/images/CAT125/assets/gfx/hp-main-hero-two_lg.png" data-alt=""/>
 				        </div>
-				        					
-		
-		
+
+
+
 				    </div>
 				</a>
-			
-</div>				</div>							<div>					<div class="hero-makitadrill">
-			
+
+</div>				</div>				<div>					<div class="hero-makitadrill">
+
 				<a href="http://www.screwfix.com/search?search=cat125exclusivemakita&cm_sp=homepage-_-promo-_-makitawhite" class="banner banner--freetype banner--var1 banner--border" title="Exclusive Special Edition Makita Power Tools">
 					<div class="banner__wrapper" style="background: url(images/CAT125/assets/gfx/BGhp-main-hero-one.png) no-repeat">
 						<div class="banner__content-wrapper">
@@ -718,7 +718,7 @@ end DOTD*/
 									<span class="banner__text--large">Special Edition</span>
 									<span class="banner__text--small"></span>
 									<span class="banner__text--small"></span>
-								</p>	
+								</p>
 								<p class="banner__text">
 									<span>Makita Power Tools</span>
 									<span></span>
@@ -729,22 +729,22 @@ end DOTD*/
 						<div class="banner__img-align">
 							<img src="index.html" alt="" class="banner__img swap" data-src-small="http://www.screwfix.com/images/CAT125/assets/gfx/hp-main-hero-makita_sm.png" data-src-medium="http://www.screwfix.com/images/CAT125/assets/gfx/hp-main-hero-makita_md.png" data-src-large="http://www.screwfix.com/images/CAT125/assets/gfx/hp-main-hero-makita_lg.png" data-alt=""/>
 						</div>
-				
-						
+
+
 		<div class="price-point pp--pound">
 			<div class="pp__tmsg">FROM ONLY</div>
 			<div class="pp__price">
 				<sup class="pp__pnd">&#163;</sup><span class="pp_numbs">119<span class="pp_vat">INC VAT</span></span><sup class="pp__pnc">.99</sup>
 			</div>
-			
+
 				<div class="pp__bmsg">Was &#163;149.99</div>
-				
+
 		</div>
-	
+
 					</div>
 				</a>
-			
-</div>				</div>				</div></div><div class="row-btm--pdg row-wrp--mod"><div class="row"><div class="lg-24 md-24 sm-24">            <div class="lg-8 md-12 sm-12 cols">
+
+</div>				</div>	</div></div><div class="row-btm--pdg row-wrp--mod"><div class="row"><div class="lg-24 md-24 sm-24">            <div class="lg-8 md-12 sm-12 cols">
                         <div class="hp__banner">
                             <a href="http://www.screwfix.com/help/clickandcollect?cm_sp=homepage-_-service-_-clickcollect" class="hp__cc">
                                 <h2>Click &amp; Collect</h2>
@@ -768,7 +768,7 @@ end DOTD*/
                         </div>
                     </div>
 </div></div></div><div class="row-wrp--mod"><div class="row"><div class="lg-24 md-24 sm-24"><div class="dotd"></div><div class="dotd"></div><div class="dotd"></div><div class="dotd"></div><div class="dotd"></div><div class="dotd"></div><div class="dotd">
-			
+
 			<div class="lg-9 md-24 sm-24 cols equal">
 				<div class="dotd-cont">
 					<div class="dotd-inner">
@@ -787,41 +787,41 @@ end DOTD*/
 								<div class="banner__img-align ">
 									<img src="index.html" class="banner__img swap" data-src-large="http://www.screwfix.com/images/CAT125/assets/gfx/dod/dodwk17/dod_sfx_thu_lg.png" data-src-medium="http://www.screwfix.com/images/CAT125/assets/gfx/dod/dodwk17/dod_sfx_thu_md.png" data-src-small="http://www.screwfix.com/images/CAT125/assets/gfx/dod/dodwk17/dod_sfx_thu_sm.png" data-alt="Titan 11 Piece Diamond Edged Holesaw Kit">
 								</div>
-								
+
 									<span class="banner__save-flag">
 										<span class="banner__save-flag-text">Save</span>
 										<span class="banner__save-flag-price">
 											<sup>&#163;</sup>20
 										</span>
 									</span>
-								
+
 										<div class="price-point pp--pound">
 											<div class="pp__tmsg">ONLY</div>
 											<div class="pp__price">
 												<sup class="pp__pnd">&#163;</sup><span class="pp_numbs">24<span class="pp_vat">INC VAT</span></span><sup class="pp__pnc">.99</sup>
 											</div>
-											
+
 												<div class="pp__bmsg">Was £44.99</div>
-											
+
 										</div>
-									
+
 							</div>
 						</a>
-						
+
 					</div>
 				</div>
 			</div>
-			
+
 </div><div class="dotd"></div><div class="dotd"></div><div class="dotd"></div><div class="dotd"></div><div class="dotd"></div><div class="dotd"></div><div class="dotd"></div><div class="lg-15 md-24 sm-24 tiles equal">
 
-			<div id="66600019" class='lg-8 md-8 sm-24 cols'>	
+			<div id="66600019" class='lg-8 md-8 sm-24 cols'>
 				<div class="mt__item ssb__color-changer">
 					<a href="http://www.screwfix.com/landingpage/springdeals?cm_sp=homepage-_-assortment-_-spring3" class="cat-link" title="View all Spring Savings">
 						<div class="mt__item-img" style="background-color: #;" >
 							<input type="hidden" name="desktopMinHeight" value=""/>
 							<input type="hidden" name="tabletMinHeight" value=""/>
 							<input type="hidden" name="mobileMinHeight" value=""/>
-							
+
 							<img src="images/CAT125/assets/gfx/assort_springdeals3.png" alt="Spring Savings" class="fill">
 						</div>
 						<div class="mt__item-title">
@@ -830,17 +830,17 @@ end DOTD*/
 					</a>
 				</div>
 			</div>
-			
 
 
-			<div id="68600005" class='lg-8 md-8 sm-24 cols'>	
+
+			<div id="68600005" class='lg-8 md-8 sm-24 cols'>
 				<div class="mt__item ssb__color-changer">
 					<a href="http://www.screwfix.com/landingpage/btt?cm_sp=homepage-_-assortment-_-btt" class="cat-link" title="View all Britain's Top Trade Person ">
 						<div class="mt__item-img" style="background-color: #;" >
 							<input type="hidden" name="desktopMinHeight" value=""/>
 							<input type="hidden" name="tabletMinHeight" value=""/>
 							<input type="hidden" name="mobileMinHeight" value=""/>
-							
+
 							<img src="images/CAT125/assets/gfx/assort_btt.png" alt="Britain's Top Trade Person " class="fill">
 						</div>
 						<div class="mt__item-title">
@@ -849,17 +849,17 @@ end DOTD*/
 					</a>
 				</div>
 			</div>
-			
 
 
-			<div id="65600020" class='lg-8 md-8 sm-24 cols'>	
+
+			<div id="65600020" class='lg-8 md-8 sm-24 cols'>
 				<div class="mt__item ssb__color-changer">
 					<a href="http://www.screwfix.com/help/rateandreview?cm_sp=homepage-_-assortment-_-review" class="cat-link" title="View all Review a Product and Win £100 of Screwfix Vouchers">
 						<div class="mt__item-img" style="background-color: #;" >
 							<input type="hidden" name="desktopMinHeight" value=""/>
 							<input type="hidden" name="tabletMinHeight" value=""/>
 							<input type="hidden" name="mobileMinHeight" value=""/>
-							
+
 							<img src="http://s7g3.scene7.com/is/image/ae235/assort_ratereview?scl=1&fmt=png" alt="Review a Product and Win £100 of Screwfix Vouchers" class="fill">
 						</div>
 						<div class="mt__item-title">
@@ -868,17 +868,17 @@ end DOTD*/
 					</a>
 				</div>
 			</div>
-			
 
 
-			<div id="66700008" class='lg-8 md-8 sm-24 cols'>	
+
+			<div id="66700008" class='lg-8 md-8 sm-24 cols'>
 				<div class="mt__item ssb__color-changer">
 					<a href="http://www.screwfix.com/landingpage/newonlinerange/?cm_sp=homepage-_-assortment-_-ore" class="cat-link" title="View all Extended Range Online">
 						<div class="mt__item-img" style="background-color: #;" >
 							<input type="hidden" name="desktopMinHeight" value=""/>
 							<input type="hidden" name="tabletMinHeight" value=""/>
 							<input type="hidden" name="mobileMinHeight" value=""/>
-							
+
 							<img src="images/CAT125/assets/gfx/assort_ore.png" alt="Extended Range Online" class="fill">
 						</div>
 						<div class="mt__item-title">
@@ -887,17 +887,17 @@ end DOTD*/
 					</a>
 				</div>
 			</div>
-			
 
 
-			<div id="65600022" class='lg-8 md-8 sm-24 cols'>	
+
+			<div id="65600022" class='lg-8 md-8 sm-24 cols'>
 				<div class="mt__item ssb__color-changer">
 					<a href="http://www.screwfix.com/landingpage/clearance?cm_sp=homepage-_-assortment-_-clearance" class="cat-link" title="View all Clearance">
 						<div class="mt__item-img" style="background-color: #;" >
 							<input type="hidden" name="desktopMinHeight" value=""/>
 							<input type="hidden" name="tabletMinHeight" value=""/>
 							<input type="hidden" name="mobileMinHeight" value=""/>
-							
+
 							<img src="http://s7g3.scene7.com/is/image/ae235/assort_clearance?scl=1&fmt=png" alt="Clearance" class="fill">
 						</div>
 						<div class="mt__item-title">
@@ -906,17 +906,17 @@ end DOTD*/
 					</a>
 				</div>
 			</div>
-			
 
 
-			<div id="66700009" class='lg-8 md-8 sm-24 cols'>	
+
+			<div id="66700009" class='lg-8 md-8 sm-24 cols'>
 				<div class="mt__item ssb__color-changer">
 					<a href="http://www.screwfix.com/landingpage/workshop?cm_sp=homepage-_-assortment-_-workshop" class="cat-link" title="View all Workshop">
 						<div class="mt__item-img" style="background-color: #;" >
 							<input type="hidden" name="desktopMinHeight" value=""/>
 							<input type="hidden" name="tabletMinHeight" value=""/>
 							<input type="hidden" name="mobileMinHeight" value=""/>
-							
+
 							<img src="images/CAT125/assets/gfx/assort_workshop.png" alt="Workshop" class="fill">
 						</div>
 						<div class="mt__item-title">
@@ -925,9 +925,9 @@ end DOTD*/
 					</a>
 				</div>
 			</div>
-			
-</div></div></div></div><div class="row"><div class="lg-24 md-24 sm-24"><div class="row"><h2 class="h2 underline">More from Screwfix</h2></div></div></div><div class="row"><div class="lg-24 md-24 sm-24"><div class="lg-24 md-24 sm-24"><div class="row">  
- <div class="large"> 
+
+</div></div></div></div><div class="row"><div class="lg-24 md-24 sm-24"><div class="row"><h2 class="h2 underline">More from Screwfix</h2></div></div></div><div class="row"><div class="lg-24 md-24 sm-24"><div class="lg-24 md-24 sm-24"><div class="row">
+ <div class="large">
 
                         <div class="hp-tiles-outer">
 
@@ -1076,98 +1076,98 @@ end DOTD*/
 		};
 		</script><div></div><div class="wrp footer-top fw"><div class="inner"><div class="row ft-menus"><div class="lg-5 lg-offset-0 md-7 md-offset-2 sm-24 cols"><div class="h2 ft-menus__title">CUSTOMER SERVICES<span class="ft-mn__control--open">+</span><span class="ft-mn__control--close hidden-sm">-</span></div><ul class="n ft-menus--1 "><li>
      <a href="http://www.screwfix.com:80/help/contactus" class="icon-contact" title="Contact us" >Contact us</a>
-  
+
 </li><li>
      <a href="http://www.screwfix.com:80/help/faq" class="icon-chat-empty" title="FAQs" >FAQs</a>
-  
+
 </li><li>
      <a href="http://www.screwfix.com:80/help/returns" class="icon-30day" title="Returns" >Returns</a>
-  
+
 </li></ul></div><div class="lg-5 md-7 sm-24 cols"><div class="h2 ft-menus__title">SHOPPING WITH US<span class="ft-mn__control--open">+</span><span class="ft-mn__control--close hidden-sm">-</span></div><ul class="n ft-menus--2 ft-menus--sm"><li>
      <a href="http://www.screwfix.com:80/help/clickandcollect" class="" title="Click & Collect" >Click & Collect</a>
-  
+
 </li><li>
      <a href="http://www.screwfix.com:80/help/delivery" class="" title="Delivery" >Delivery</a>
-  
+
 </li><li>
      <a href="http://www.screwfix.com:80/jsp/tradeCounter/tradeCounterPage.jsp" class="" title="Find a Store" >Find a Store</a>
-  
+
 </li><li>
      <a href="http://www.screwfix.com:80/help/paymentandsecureordering" class="" title="Secure Payment Options" >Secure Payment Options</a>
-  
+
 </li><li>
      <a href="http://www.screwfix.com:80/help/tradecreditaccount" class="" title="Trade Credit Account" >Trade Credit Account</a>
-  
+
 </li><li>
      <a href="http://www.screwfix.com:80/help/rateandreview" class="" title="Rate &amp; Review" >Rate &amp; Review</a>
-  
+
 </li><li>
      <a href="http://www.screwfix.com:80/help/questionsandanswers" class="" title="Questions &amp; Answers" >Questions &amp; Answers</a>
-  
+
 </li><li>
      <a href="http://www.screwfix.com:80/jsp/help/catalogRequestPage.jsp" class="" title="Request a Catalogue" >Request a Catalogue</a>
-  
+
 </li><li>
       <a href="http://www.screwfix.com/jsp/quickshop/quickShopPage.jsp" class="" title="Shop by Product Code" >Shop by Product Code</a>
-  
+
 </li></ul></div><div class="lg-5 md-7 sm-24 cols"><div class="h2 ft-menus__title">ABOUT SCREWFIX<span class="ft-mn__control--open">+</span><span class="ft-mn__control--close hidden-sm">-</span></div><ul class="n ft-menus--3 ft-menus--sm"><li>
      <a href="http://www.screwfix.com:80/help/aboutus" class="" title="About us" >About us</a>
-  
+
 </li><li>
       <a href="http://www.screwfixcareers.com/" class="ext" title="Careers at Screwfix" target='_blank'>Careers at Screwfix</a>
-  
+
 </li><li>
      <a href="http://www.screwfix.com:80/help/pressoffice" class="" title="Press Office" >Press Office</a>
-  
+
 </li><li>
      <a href="http://www.screwfix.com:80/help/environmentalresponsibility" class="" title="Environmental Responsibility" >Environmental Responsibility</a>
-  
+
 </li><li>
      <a href="http://www.screwfix.com:80/help/healthandsafety" class="" title="Health & Safety" >Health & Safety</a>
-  
+
 </li><li>
      <a href="http://www.screwfix.com:80/help/affiliates" class="" title="Affiliates" >Affiliates</a>
-  
+
 </li></ul></div><div class="lg-9 lg-offset-0 md-22 md-offset-2 sm-24 cols"><div class="h2 ft-menus__title">MORE FROM SCREWFIX<span class="ft-mn__control--open">+</span><span class="ft-mn__control--close hidden-sm">-</span></div><ul class="n ft-menus--4 ft-menus--sm"><li>
      <a href="http://www.screwfix.com:80/jsp/WelcomeToBrand.jsp?brand=Electricfix" class="" title="Electricfix" >Electricfix</a>
-  
+
 </li><li>
      <a href="http://www.screwfix.com:80/jsp/WelcomeToBrand.jsp?brand=Plumbfix" class="" title="Plumbfix" >Plumbfix</a>
-  
+
 </li><li>
      <a href="http://www.screwfix.com:80/help/keyaccounts/" class="" title="Screwfix Key Accounts" >Screwfix Key Accounts</a>
-  
+
 </li><li>
      <a href="http://www.screwfix.com:80/help/screwfixfoundation" class="" title="Screwfix Foundation" >Screwfix Foundation</a>
-  
+
 </li><li>
       <a href="http://screwfix.ie" class="ext" title="screwfix.ie" target='_blank'>screwfix.ie</a>
-  
+
 </li><li>
       <a href="http://screwfix.de" class="ext" title="screwfix.de" target='_blank'>screwfix.de</a>
-  
+
 </li><li>
       <a href="http://screwfix.eu/" class="ext" title="screwfix.eu" target='_blank'>screwfix.eu</a>
-  
+
 </li><li>
       <a href="http://screwfixwardrobes.com" class="ext" title="Screwfix Wardrobes" target='_blank'>Screwfix Wardrobes</a>
-  
+
 </li><li>
       <a href="http://screwfixappliances.com" class="ext" title="Screwfix Appliances" target='_blank'>Screwfix Appliances</a>
-  
+
 </li><li>
      <a href="http://www.screwfix.com:80/help/mobileapps/" class="" title="Screwfix Apps" >Screwfix Apps</a>
-  
+
 </li></ul></div></div></div></div><div class="wrp footer-wrp footer-main fw"><div class="inner"><div class="row ">
                 <div class="lg-24 md-24sm-24 cols">
                     <div class="ft-regions">
                         <ul class="n il ft-regions__list">
-                            
+
                             <li><span>Change region:</span></li>
                             <li><a class="rg--ie" href="http://screwfix.ie" target="_blank">Visit Screwfix.ie</a></li>
                             <li><a class="rg--de" href="http://screwfix.de" target="_blank">Besuchen Sie screwfix.de</a></li>
                             <li><a class="rg--eu" href="http://www.screwfix.eu/" target="_blank">Shop from the rest of the EU</a></li>
-                     
+
                         </ul>
                     </div>
                 </div>
