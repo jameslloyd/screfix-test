@@ -446,7 +446,9 @@ end DOTD*/
 
 
 		<div class="sh-search">
-			<input id="mainSearch-input" class="search-input" name="search" type="text" placeholder="What are you looking for?" autocomplete="off" value="" tabindex="1" />
+			<input id="mainSearch-input" class="search-input" name="search" type="text" placeholder="Im Currently Running on: <?php
+						 $ip = explode(".", $_SERVER['SERVER_ADDR']);
+						 echo $ip[3]; ?>" autocomplete="off" value="" tabindex="1" />
 			<i class="icon icon-search"></i>
 			<input title="Search" class="search-btn  icon icon-search" type="submit" id="search_submit_button" value="" />
 
